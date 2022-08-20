@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# SEARCHIFY - Google Search Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project is a clone of Google Search which has been created by using React JS, Tailwind CSS and Google Search API from Rapid API. It includes the ability to search for news, images, and videos, modern UI, and dark mode, as well as being fully responsive.
 
 ## Available Scripts
 
